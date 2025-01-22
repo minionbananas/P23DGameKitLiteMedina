@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 72539ae412e7dd249ba15e144ef4d224
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: 47140a8d-5c24-4268-a7bf-28f288a4018e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: 3DGameKitLiteMedinaP2
   organizationId: minionbananas
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
